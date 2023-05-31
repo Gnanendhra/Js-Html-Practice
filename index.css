@@ -1,0 +1,14 @@
+.heading
+{
+    color: rgba(118, 255, 100, 0.7);
+}
+
+.paragraph{
+    color: rgb(220, 140, 20);
+}
+body{
+    background-image: url("images/tree-736885_960_720.jpg");
+    
+    background-size: 100%;
+    opacity: 0.7;
+}
